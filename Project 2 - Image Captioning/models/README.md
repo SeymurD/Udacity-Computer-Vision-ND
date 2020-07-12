@@ -1,0 +1,1 @@
+There are no saved files in the section because each model is roughly 300mbs in size. If you would like to copy this repo, please be aware you will need to run the training session on your own machine and it will take roughly 6-12 hours depending on the GPU power.
